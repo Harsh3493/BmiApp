@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bmi App</string>
+    <string name="str1">Check Your BMI Here!</string>
+    <string name="finalresult">Click To Get BMI</string>
+    <string name="heighthint">Height In cm</string>
+    <string name="weighthint">Weight In kg</string>
+    <string name="agehint">Age in years</string>
+    <string name="disclaimer">Note:Please Enter Only Integer Values. Float Values are not allowed.</string>
+</resources>
