@@ -52,7 +52,7 @@
             android:layout_height="wrap_content"
             android:backgroundTint="#009688"
             android:text="@string/finalresult"
-            android:textColor="#AD0E0E"
+            android:textColor="#FFFFFF"
             android:textColorHint="#FF0000"
             android:textColorLink="#000000" />
 
