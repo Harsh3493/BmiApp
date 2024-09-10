@@ -6,4 +6,6 @@
     <string name="weighthint">Weight In kg</string>
     <string name="agehint">Age in years</string>
     <string name="disclaimer">Note:Please Enter Only Integer Values. Float Values are not allowed.</string>
+    <string name="bmi_checker1">BMI</string>
+    <string name="bmi_checker2">Checker</string>
 </resources>
